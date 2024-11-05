@@ -13,7 +13,7 @@ export default function Exemplo2 () {
             <Text style={styles.titulo}>
                 Exemplo 2
             </Text>
-            <Image source={logo} style={styles.imagem} /> 
+            <Image source={logo} style={styles.imagem} />  
 
             <Mensagem nome={'Ewerton'} />
             <Mensagem nome={'Werton'} />

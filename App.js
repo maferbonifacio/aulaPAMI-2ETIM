@@ -11,7 +11,7 @@ import Atividade2 from './src/atividades/atv_02';
 export default function App() {
   return (
     <View style={styles.container}>
-     <Exemplo2 />
+     <Atividade2 />
       <StatusBar style="auto" />
     </View>
   );
